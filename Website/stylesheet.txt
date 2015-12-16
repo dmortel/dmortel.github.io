@@ -1,0 +1,52 @@
+div a {
+    color: #00b0ff;
+}
+
+.nav a {
+  text-decoration: none;
+  padding: 14px 10px 14px 10px;
+  color: #5a5a5a;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 11px;
+}
+
+.nav ul {
+	display: inline;
+	}
+
+.nav li {
+	display: inline;
+	}
+
+.jumbotron {
+	position: relative;
+    height: 500px;
+    background-image:url('http://goo.gl/04j7Nn');
+}
+
+.jumbotron h1 {
+	position: relative;
+	padding: 200px 0px 0px 10px;
+	margin-bottom: 0px;
+    font-family: 'Shift', sans-serif;
+    color: #fff;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.jumbotron p {
+	padding: 0px 0px 0px 10px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.learn-more {
+    background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+     font-family: 'Shift', sans-serif;
+     font-size: 18px;
+     font-weight: bold;
+}
